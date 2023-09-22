@@ -15,9 +15,9 @@ The data has the following tables:
 * Sellers table
 * Uni customer order result
 ## Tools used
-Microsoft PowerBI
-DAX (Data Analysis Expression) for Calculated Measures
-Power Query for transforming the Data
+* Microsoft PowerBI
+* DAX (Data Analysis Expression) for Calculated Measures
+* Power Query for transforming the Data
 ## Data Cleaning
 Before commencing any analysis, the dataset was imported into Power Query on Microsoft Power BI for data cleaning. This serves to ensure that the data we are working with is free of errors and inaccuracies that may skew our results.
 The following were checked for:
